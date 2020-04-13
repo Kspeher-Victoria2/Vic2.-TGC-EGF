@@ -1,7 +1,7 @@
-Version 5 "Das Finale": Compatible with TGC 0.1.5 
+Version 5.2 "Das Finale": Compatible with the next master build TGC 0.2 
 
 Changes:
--Reduces pop growth by 10%
+-Reduces pop growth by 15%
 -Allows German Pops to be assimilated by MOST countries, except those where they formed long lived exclaves, these countries include*:
 	-Hungary
 	-Slovakia
@@ -14,38 +14,39 @@ Changes:
 -Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
+-German Revolution of 1848, allows formation of Greater Germany
+	-Available to player ONLY!
 -German rename of volga for the Volga nation
 -USA pressure to regain Cuba and Texas, if not in an alliance with Germany
 -Japanese and Russian pressure to gain Manchuria  -China was left out, as I think they would be more busy keeping their nation together-
 -German East Indies have chance to abandon German rule once they are a great power, i.e. independent
--Ability to host German Royal family if Germany is:
+-Namibia ability to host German Royal family if Germany is:
 	-Fascist
 	-Communist
 	-Bourgeois Dictatorship
--New Government Type: Federal Constitutional Monarchy
 -4 New Colonies
 -1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
--Renaming States fixed
-	-properly renames Alsace
-	-properly renames finland
-	-properly gives names to cities in poland when under german control
-	-allows renaming of Lowlands, area around Dunkerque, Denmark, parts of Belarus and Ukraine
-	-proper german names for south africa
-	-ability to rename Qingdao to Tsingtao
--More names for the North-German culture group
--Swedish names for Pomerania
--Swedish names for Estonia
--Swedish names for Ingryia
--Polish names for all of Silesia
--Polish names for all of Posen
--Polish names for all for Westprussia
--Polish names for Eastprussia
--Polish names for Pomerania
--Polish names for all of former Poland-Lithuania
--Polish names for parts of Brandenburg+Dresden (1)
--Czech names for Silesia
--Czech names for former bohemian crown lands (or as close as it gets), i.e Dresden and Cottbus (2)
--Custom new German flag, for The Germanic Empire
+-Renaming States fixed/expanded
+**These files can change and be updated or expanded by GEF, therefore you should not deleted the files.
+	-properly renames Alsace *Integrated into TGC*
+	-properly renames finland *Integrated into TGC*
+	-properly gives names to cities in poland when under german control *Integrated into TGC*
+	-allows renaming of Lowlands, area around Dunkerque, Denmark, parts of Belarus and Ukraine *Integrated into TGC*
+	-proper german names for south africa *Integrated into TGC*
+	-ability to rename Qingdao to Tsingtao *Integrated into TGC*
+-More names for the North-German culture group *Integrated into TGC*
+-**Swedish names for Pomerania *Integrated into TGC*
+-**Swedish names for Estonia *Integrated into TGC*
+-**Swedish names for Ingryia *Integrated into TGC*
+-**Polish names for all of Silesia *Integrated into TGC*
+-**Polish names for all of Posen *Integrated into TGC*
+-**Polish names for all for Westprussia *Integrated into TGC*
+-**Polish names for Eastprussia *Integrated into TGC*
+-**Polish names for Pomerania *Integrated into TGC*
+-**Polish names for all of former Poland-Lithuania *Integrated into TGC*
+-**Polish names for parts of Brandenburg+Dresden (1) *Integrated into TGC*
+-**Czech names for Silesia *Integrated into TGC*
+-**Czech names for former bohemian crown lands (or as close as it gets), i.e Dresden and Cottbus (2) *Integrated into TGC*
 -Treaty of Krakau (1)
 	-Allows annexation of parts of Brandenburg&removes German cores on provinces in Silesia/Posen/Westprussia/Eastprussia
 -Treaty of Prague (2)
@@ -60,7 +61,7 @@ New:
 -2 Treaties for Germany on the annexation of the Lowlands
 	-The one for the Dutch has two variations, i.e. Total annexation or banishment to the East Indies
 	-Belgium annexation allows the treaty of Nancy to take place
--Give Korea Japanese Province names when under Japanese rule
+-**Give Korea Japanese Province names when under Japanese rule *Integrated into TGC*
 -Reichspakt feature
 	-Gives various perks to countries depending on what they have (politically/industrially)
 	-Prevents (stops) war between members thru use of events that "end_war = x"
@@ -83,14 +84,12 @@ New:
 		-Denmark/Sweden/Norway/Scandinavia 15%
 
 Fixes:
--Lithuania not being able to be renamed
--Renaming Brest now works properly
--Renaming of East and West Galicia fixed
--Jaroslaw and Wadowice now get Russian names
--Incorrect province names in some places
--Polish names for Lativa descision now firing properly
--Government now works properly
+-Lithuania not being able to be renamed *Integrated into TGC*
+-Renaming of East and West Galicia fixed *Integrated into TGC*
+-Jaroslaw and Wadowice now get Russian names *Integrated into TGC*
+-Incorrect province names in some places *Integrated into TGC*
+-Polish names for Lativa descision now firing properly *Integrated into TGC*
 
 
-V: 5+ Not Started:
+V: 5.2+ Not Started:
 This will include bug fixes and updating the mod if needed
